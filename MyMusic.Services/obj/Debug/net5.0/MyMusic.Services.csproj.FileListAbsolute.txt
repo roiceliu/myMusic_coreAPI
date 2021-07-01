@@ -1,0 +1,15 @@
+C:\Users\roice\projects\itlize\MyMusic\MyMusic.Services\bin\Debug\net5.0\MyMusic.Services.deps.json
+C:\Users\roice\projects\itlize\MyMusic\MyMusic.Services\bin\Debug\net5.0\MyMusic.Services.dll
+C:\Users\roice\projects\itlize\MyMusic\MyMusic.Services\bin\Debug\net5.0\ref\MyMusic.Services.dll
+C:\Users\roice\projects\itlize\MyMusic\MyMusic.Services\bin\Debug\net5.0\MyMusic.Services.pdb
+C:\Users\roice\projects\itlize\MyMusic\MyMusic.Services\bin\Debug\net5.0\MyMusic.Core.dll
+C:\Users\roice\projects\itlize\MyMusic\MyMusic.Services\bin\Debug\net5.0\MyMusic.Core.pdb
+C:\Users\roice\projects\itlize\MyMusic\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.csprojAssemblyReference.cache
+C:\Users\roice\projects\itlize\MyMusic\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roice\projects\itlize\MyMusic\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.AssemblyInfoInputs.cache
+C:\Users\roice\projects\itlize\MyMusic\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.AssemblyInfo.cs
+C:\Users\roice\projects\itlize\MyMusic\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.csproj.CoreCompileInputs.cache
+C:\Users\roice\projects\itlize\MyMusic\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.csproj.CopyComplete
+C:\Users\roice\projects\itlize\MyMusic\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.dll
+C:\Users\roice\projects\itlize\MyMusic\MyMusic.Services\obj\Debug\net5.0\ref\MyMusic.Services.dll
+C:\Users\roice\projects\itlize\MyMusic\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.pdb

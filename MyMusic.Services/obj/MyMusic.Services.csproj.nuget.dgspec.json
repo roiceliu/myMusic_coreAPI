@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\roice\\projects\\itlize\\MyMusic\\MyMusic.Services\\MyMusic.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\roice\\projects\\itlize\\MyMusic\\MyMusic.Core\\MyMusic.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\roice\\projects\\itlize\\MyMusic\\MyMusic.Core\\MyMusic.Core.csproj",
+        "projectName": "MyMusic.Core",
+        "projectPath": "C:\\Users\\roice\\projects\\itlize\\MyMusic\\MyMusic.Core\\MyMusic.Core.csproj",
+        "packagesPath": "C:\\Users\\roice\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\roice\\projects\\itlize\\MyMusic\\MyMusic.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\roice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\roice\\projects\\itlize\\MyMusic\\MyMusic.Services\\MyMusic.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\roice\\projects\\itlize\\MyMusic\\MyMusic.Services\\MyMusic.Services.csproj",
+        "projectName": "MyMusic.Services",
+        "projectPath": "C:\\Users\\roice\\projects\\itlize\\MyMusic\\MyMusic.Services\\MyMusic.Services.csproj",
+        "packagesPath": "C:\\Users\\roice\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\roice\\projects\\itlize\\MyMusic\\MyMusic.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\roice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\roice\\projects\\itlize\\MyMusic\\MyMusic.Core\\MyMusic.Core.csproj": {
+                "projectPath": "C:\\Users\\roice\\projects\\itlize\\MyMusic\\MyMusic.Core\\MyMusic.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
